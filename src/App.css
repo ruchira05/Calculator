@@ -1,0 +1,7 @@
+.flexbox-container{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(86, 86, 86);
+}
